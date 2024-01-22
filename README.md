@@ -1,11 +1,11 @@
 
-<h3 align="left">Ciao a tutti :smile:</h3>
-Mi chiamo Martina e sono un'appassionata per l'analisi dei dati 📈
+<h3 align="left">Hi everyone :smile:</h3>
+My name's Martina and I am passionate about data analysis 📈
 
 
-- Attualmente sono focalizzata sullo studio dei maggior linguaggi di programmazione con **Epicode**
+- I am currently focused on studying the major programming languages ​​with **Epicode**
 
-- Come contattarmi **martina.albano@hotmail.com**
+- How to contact me: **martina.albano@hotmail.com**
 
 <h3 align="left">Il mio profilo linkedin:</h3>
 <p align="left">
