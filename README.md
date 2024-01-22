@@ -1,6 +1,6 @@
 
 <h3 align="left">Ciao a tutti :smile:</h3>
-Mi chiamo Martina Albano e sono un'appassionata per l'analisi dei dati 📈
+Mi chiamo Martina e sono un'appassionata per l'analisi dei dati 📈
 
 
 - Attualmente sono focalizzata sullo studio dei maggior linguaggi di programmazione con **Epicode**
