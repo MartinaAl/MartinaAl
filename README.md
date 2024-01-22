@@ -15,12 +15,18 @@ My name's Martina and I am passionate about data analysis 📈
 
 <h3 align="left">Tools:</h3>
 
-- SQL
--  Python
--  Excel
--  Power BI
--  Google Data Studio
--  Google Looker
+-  Google (Data Studio, Looker, Sheet)
+-  Excel (Power Query, Power BI)
 
+###
+<h3 align="left">Languages:</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
 
 
